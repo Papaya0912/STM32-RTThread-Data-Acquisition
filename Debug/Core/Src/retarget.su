@@ -1,0 +1,2 @@
+../Core/Src/retarget.c:10:5:__io_putchar	24	static
+../Core/Src/retarget.c:20:5:__io_getchar	16	static

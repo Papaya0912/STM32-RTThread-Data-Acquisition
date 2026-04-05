@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:35:6:SysTick_Handler	8	static
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:46:13:reboot	16	static
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:56:6:rt_hw_board_init	8	static
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:83:12:uart_init	8	static
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:103:6:rt_hw_console_output	32	static
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/cubemx_config/board.c:124:6:rt_hw_console_getchar	16	static

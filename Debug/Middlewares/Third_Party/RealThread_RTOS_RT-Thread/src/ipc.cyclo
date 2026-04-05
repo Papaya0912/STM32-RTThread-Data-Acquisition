@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h:47:16:rt_list_init	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h:73:16:rt_list_insert_before	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h:98:15:rt_list_isempty	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:84:20:_ipc_object_init	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:122:20:_ipc_list_suspend	6
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:191:20:_ipc_list_resume	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:220:20:_ipc_list_resume_all	2
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:296:10:rt_sem_init	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:340:10:rt_sem_detach	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:484:10:rt_sem_take	5
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:587:10:rt_sem_trytake	1
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:606:10:rt_sem_release	4
+../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/ipc.c:672:10:rt_sem_control	2
